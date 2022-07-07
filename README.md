@@ -12,7 +12,7 @@ To simulate on Aldec Rivera for free, please visit [The Project on eda playgroun
 
 - [x] Open EPWave after run
 
-Then, click on `Run`
+under `Tools & Simulators` after choosing `Aldec Rivera Pro 2020.04` from drop down menu. Then, click on `Run`
 
 ---
 
